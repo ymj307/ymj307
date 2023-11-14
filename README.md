@@ -69,13 +69,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 
-###  Most Used Languages
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymj307&langs_count=6&layout=compact)](http://github.com/ymj307/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
